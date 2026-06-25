@@ -1,0 +1,8 @@
+La terminal ofrece control directo sobre el sistema operativo.
+Permite navegar entre carpetas y organizar archivos con rapidez.
+Optimiza el tiempo al ejecutar comandos sin depender de interfaces gráficas.
+Refuerza la comprensión de cómo funciona el sistema en su núcleo.
+En proyectos colaborativos, asegura flujos de trabajo ordenados y reproducibles.
+Herramientas como Git se integran naturalmente en este entorno.
+Dominar la terminal fomenta disciplina y claridad en la organización de proyectos.
+En definitiva, conecta conocimiento técnico con productividad profesional.
