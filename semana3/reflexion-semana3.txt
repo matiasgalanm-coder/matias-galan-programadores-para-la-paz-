@@ -1,0 +1,8 @@
+Un registro de cambios garantiza transparencia en el desarrollo del proyecto.
+Permite volver a versiones anteriores si ocurre un error.
+Facilita la colaboración entre varios desarrolladores sin sobrescribir trabajo.
+Documenta cada modificación con mensajes claros y organizados.
+Ayuda a mantener un flujo de trabajo ordenado y reproducible.
+Refuerza la seguridad al conservar historial completo de cambios.
+Favorece la trazabilidad, mostrando quién hizo qué y cuándo.
+En conclusión, el registro de cambios es la base de un desarrollo profesional y confiable.
