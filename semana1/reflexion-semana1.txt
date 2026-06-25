@@ -1,0 +1,8 @@
+Uso responsable de la información implica verificar fuentes y evitar la desinformación, lo que fortalece la confianza social.
+Participación ciudadana requiere ciudadanos informados que puedan debatir y decidir con criterio.
+Herramientas como Git muestran cómo la organización técnica puede garantizar transparencia y trazabilidad en proyectos colectivos.
+En ambos casos, la información se gestiona con rigor: en política, para decisiones públicas; en software, para mantener la calidad del código.
+La colaboración distribuida que permite Git es un reflejo de la democracia digital: cada voz cuenta y cada aporte queda registrado.
+Así, la ética en el manejo de datos se convierte en un puente entre el mundo técnico y el social.
+La ciudadanía digital responsable se parece a un repositorio bien gestionado: abierto, ordenado y confiable
+En conclusión, tanto en la sociedad como en la tecnología, la información responsable es la base de la confianza y la cooperación.
