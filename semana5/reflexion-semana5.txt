@@ -1,0 +1,8 @@
+Permiten centralizar reportes en un sistema único, evitando duplicaciones.
+Facilitan la automatización de alertas en tiempo real, como notificaciones de emergencias.
+Aseguran que los datos se compartan con un formato estándar, lo que mejora la claridad.
+Favorecen la interoperabilidad entre distintas plataformas comunitarias.
+Incrementan la transparencia al permitir trazabilidad de la información.
+Refuerzan la participación ciudadana al dar acceso abierto a datos relevantes.
+Reducen la desinformación al validar fuentes antes de difundir.
+En conjunto, convierten la comunicación comunitaria en un proceso más seguro y organizado, fortaleciendo la confianza colectiva

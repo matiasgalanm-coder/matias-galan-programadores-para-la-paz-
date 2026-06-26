@@ -1,0 +1,4 @@
+POST https://fuzzy-garbanzo-wvrp4p4p764wc96jx-3000.app.github.dev/reporte
+Content-Type: application/json
+
+ {"mensaje": "reporte de prueba"}
