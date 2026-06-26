@@ -1,0 +1,3 @@
+http://localhost:3000 la ruta funciona correctamente 
+http://localhost:3000/saludo saludos por parte de la comunidad
+http://localhost:3000/mensaje/juan me saluda juan
