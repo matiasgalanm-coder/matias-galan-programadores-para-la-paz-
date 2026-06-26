@@ -1,0 +1,8 @@
+Las comunidades que construyen sus propias herramientas tecnológicas con Node.js ejercen autonomía frente a soluciones cerradas.
+El uso de tecnologías abiertas garantiza transparencia y evita depender de corporaciones externas.
+Esto fortalece la participación ciudadana, pues cada miembro puede aportar y auditar el código.
+La colaboración distribuida refleja valores democráticos: inclusión, trazabilidad y responsabilidad compartida.
+Node.js permite crear aplicaciones accesibles y escalables, útiles para proyectos sociales y comunitarios.
+Al ser abierto, fomenta el aprendizaje colectivo y la apropiación del conocimiento técnico.
+Así, la tecnología se convierte en un puente entre la innovación y la acción ciudadana.
+En conclusión, construir con herramientas abiertas fortalece la soberanía digital y la confianza comunitaria.
