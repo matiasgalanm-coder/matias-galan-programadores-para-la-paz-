@@ -1,0 +1,13 @@
+Qué información muestra cada comando
+
+uname -a
+Linux codespaces-eb47b5 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+whoami
+codespace
+
+Conocer la información del sistema al administrar un servidor 
+Porque brinda una Seguridad al conocer la versión del sistema permite aplicar parches y cerrar vulnerabilidades críticas.
+Tambien muestra Compatibilidad asegura que el software y servicios instalados funcionen correctamente según la arquitectura.
+Rendimiento facilita optimizar el uso de CPU, memoria y almacenamiento para evitar sobrecargas.
+por ultimo nos ayuda con un Soporte técnico
