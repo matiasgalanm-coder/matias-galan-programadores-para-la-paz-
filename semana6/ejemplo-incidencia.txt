@@ -1,0 +1,9 @@
+### otra incidencia
+
+POST http://localhost:3000/registro
+Content-Type: application/json
+
+{
+  "tipo": "incendio en el parque central de cucuta",
+  "descripcion": "se le reporta a la estacionde bomberos"
+}
