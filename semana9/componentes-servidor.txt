@@ -1,0 +1,19 @@
+Sistema operativo
+software base que gestiona el hardware y permite ejecutar programas en un computador o servidor.
+Se puede decir que es fundamental en progracion porque es la base donde se ejecuta los servidores en los dispositivos
+
+Node.js
+entorno de ejecución que permite usar JavaScript en el servidor para crear aplicaciones rápidas y escalables.
+Es el comando que nos permite ejecutar el servidor en la terminal
+
+Aplicación server.js
+archivo de código en Node.js que define cómo funciona el servidor y cómo responde a las solicitudes.
+es la guia que permite que el servidor funcione correctamente
+
+Puerto 
+punto de comunicación numérico donde un servidor escucha y recibe conexiones de clientes.
+es el punto acoplio donde se recibe y exporta la comunicion de los servidores
+
+Logs
+archivos que registran eventos, errores y actividad del sistema para monitoreo y diagnóstico.
+Funcionan como una herramienta de auditoría que ayuda a detectar fallos, intentos de intrusión o patrones de uso.
