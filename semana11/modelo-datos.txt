@@ -1,0 +1,22 @@
+Entidad: Causa
+
+Campos principales:
+- id 234567890
+- titulo Incendio forestal paramo
+- descripcion se evidencia un enorme incendio en el paramo nacional
+- fecha 20/07/2026
+
+Propósito:
+informar a la comunidad que habita el paramo para su pronta evacuacion 
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id 12345
+- causa_id 234567890
+- usuario Matias Galan
+- fecha 21/07/2026
+
+Propósito:
+ayudar a socorrer a los habitantes de la region

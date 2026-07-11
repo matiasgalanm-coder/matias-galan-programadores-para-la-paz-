@@ -1,0 +1,7 @@
+descripcion
+
+La interfaz tendría un espacio para registrar casos sociales, donde los ciudadanos ingresan título, descripción y fecha de su propuesta.
+También incluiría una sección con casos sociales, mostradas en una lista clara para que los usuarios puedan leerlas fácilmente.
+Cada casos socailes tendría un botón de apoyo visible, que permite realizar la solucion al caso concreto social.
+Junto al botón aparecería un contador de apoyos, mostrando cuántos casos sociales se registran al año.
+Todo el diseño sería simple y seguro, sin mostrar información privada de los usuarios, solo datos públicos de las causas.
