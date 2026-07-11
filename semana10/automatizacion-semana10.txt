@@ -1,0 +1,9 @@
+Evento: denuncia escalada a una autoridad competente.
+Acción: generar un registro interno en el sistema para seguimiento oficial.
+Mensaje: “Denuncia escalada. Ver estado en el sistema de gestión.”
+Información que no debe registrarse ni compartirse: nombres completos, documentos de identidad, direcciones, 
+teléfonos, claves o datos sensibles.
+
+Evento que activa el flujo: Nueva denuncia registrada.
+Mensaje que se enviaría al sistema: “Denuncia registrada. Revisar estado en la plataforma.”
+Información que no debería enviarse por seguridad: Nombres completos, documentos de identidad, direcciones, teléfonos, claves o cualquier otro dato sensible.

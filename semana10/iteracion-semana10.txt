@@ -1,0 +1,15 @@
+¿Qué 2 tareas del backlog harías primero?
+MAYOR PRIORIDAD Como ciudadano quiero recibir un código único al registrar mi reporte para asegurar que mi evidencia no sea alterada.
+MAYOR PRIORIDAD Como coordinador quiero visualizar en un mapa los reportes geolocalizados para identificar zonas críticas.
+
+¿Por qué son las más importantes?
+La primera garantiza la integridad y confiabilidad de la evidencia. Sin un mecanismo que asegure que los reportes no se alteren, todo el sistema pierde credibilidad. Es la base sobre la cual se construye la confianza comunitaria.
+La segunda permite detectar patrones y zonas críticas rápidamente, lo que facilita la acción preventiva y la coordinación de respuestas. Una vez asegurada la evidencia, el mapa convierte los datos en información útil para la toma de decisiones.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Que una tarea esté “terminada” significa que cumple con los criterios de aceptación definidos, funciona correctamente tras las pruebas, aporta valor real al usuario y está lista para usarse sin necesidad de ajustes adicionales. En otras palabras, no es solo marcarla como hecha, sino asegurar que está completa, probada y confiable dentro del proyecto.
+
+DEFINICION:
+DOCUMENTADA
+REVISADA
+DISPONIBLE

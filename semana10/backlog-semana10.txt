@@ -1,0 +1,9 @@
+ MAYOR PRIORIDAD Como ciudadano quiero recibir un código único al registrar mi reporte para asegurar que mi evidencia no sea alterada.
+
+MAYOR PRIORIDAD Como coordinador quiero visualizar en un mapa los reportes geolocalizados para identificar zonas críticas.
+
+MEDIA PRIORIDAD Como miembro del equipo quiero exportar los reportes a un archivo CSV para analizarlos con otras herramientas.
+
+MENOR PRIORIDAD Como auditor comunitario quiero revisar el historial de cambios de cada reporte para garantizar la trazabilidad.
+
+MENOR PRIORIDAD Como administrador quiero configurar niveles de acceso para que cada perfil tenga permisos adecuados.
