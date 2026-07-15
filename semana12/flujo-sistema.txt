@@ -1,0 +1,7 @@
+Registro de usuario: un ciudadano se inscribe en la plataforma para participar.
+Exploración de causas: el usuario revisa las causas ya creadas por la comunidad.
+Selección de causa: decide apoyar una causa que le interesa y confirma su respaldo.
+Validación automática: el sistema verifica que el apoyo sea válido (sin duplicados, con datos mínimos).
+Actualización en tiempo real: la plataforma muestra el nuevo conteo de apoyos y el avance de la causa.
+Generación de reporte: se crea un informe digital con el estado de la causa y sus respaldos.
+Difusión comunitaria: el sistema envía notificaciones a la comunidad o a instituciones para dar visibilidad al proceso.

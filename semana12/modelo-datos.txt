@@ -1,0 +1,11 @@
+Causa
+id: 00056
+titulo: Pandemia 
+descripcion: Una fuerte enfemedad viral se expande por cucuta
+fecha:10/05/2026
+
+Apoyo
+id:1237
+causa_id:00056
+nombre: Albert Perez
+fecha:15/07/2026

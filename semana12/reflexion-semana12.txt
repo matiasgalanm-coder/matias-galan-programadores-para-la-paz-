@@ -1,0 +1,10 @@
+¿Qué aprendiste durante el curso sobre el uso de la tecnología para fortalecer la participación ciudadana y la organización comunitaria?
+
+Durante el curso aprendí que la tecnología puede ser una aliada poderosa para fortalecer la participación ciudadana y la organización comunitaria. 
+Comprendí que herramientas simples, como Petición en 3 Clics, reducen barreras de acceso y permiten que más personas se involucren en procesos sociales. 
+También reconocí la importancia de diseñar plataformas seguras, con bases de datos protegidas y autenticación confiable, para garantizar la confianza institucional. 
+La automatización se convierte en un recurso clave para agilizar procesos y notificaciones sin comprometer la privacidad. 
+Otro aprendizaje fundamental fue aplicar metodologías ágiles, que permiten construir soluciones paso a paso, escuchando siempre las necesidades de los usuarios. 
+Entendí que la tecnología debe ser inclusiva y accesible, respondiendo a los contextos reales de la comunidad. 
+Además, aprendí que la transparencia y la colaboración son principios esenciales para generar confianza. 
+Finalmente, comprendí que cuando la innovación tecnológica se articula con la participación ciudadana, se crean procesos sostenibles de transformación social.

@@ -1,0 +1,7 @@
+Evento que activa la automatización: Nuevo apoyo registrado en una causa comunitaria.
+Mensaje que se envía: “Se ha registrado un nuevo apoyo en la causa comunitaria.
+¡La participación sigue creciendo!”
+Información que no debe enviarse por seguridad: Cédulas, teléfonos, direcciones, comentarios sensibles o cualquier otro dato personal.
+
+De esta manera, la automatización mantiene informada a la comunidad en tiempo real, fomenta la participación ciudadana y asegura la protección de la información,
+ fortaleciendo la confianza en la plataforma.
